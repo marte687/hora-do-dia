@@ -22,6 +22,5 @@ function carregar(){
         foto.src = 'noite2.png'
         document.body.style.background = '#272727'
         aviso.innerHTML += 'Boa Noite!'
-        favicon.href = 'Lua.ico'
     }
 }
